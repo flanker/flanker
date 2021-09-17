@@ -19,4 +19,4 @@ FENG Zhichao (flanker). 我目前在 金数据 (https://jinshuju.net) 工作。
 
 https://jinshuju.net/f/bgohqz
 
-![Join Us](https://github.com/flanker/flanker/blob/main/jinshuju_is_hiring.jpg)
+[![Join Us](https://github.com/flanker/flanker/blob/main/jinshuju_is_hiring.jpg)](https://jinshuju.net/f/bgohqz)
