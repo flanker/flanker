@@ -15,3 +15,8 @@ FENG Zhichao (flanker). 我目前在 金数据 (https://jinshuju.net) 工作。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flanker)](https://github.com/flanker?tab=repositories)
 
+## Join us!
+
+https://jinshuju.net/f/bgohqz
+
+![Join Us](https://github.com/flanker/flanker/blob/main/jinshuju_is_hiring.jpg)
