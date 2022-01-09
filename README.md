@@ -2,9 +2,11 @@
 
 ## About me
 
-FENG Zhichao (flanker). I work at Jinshuju (https://jinshuju.net).
+FENG Zhichao (flanker). 
 
-FENG Zhichao (flanker). 我目前在 金数据 (https://jinshuju.net) 工作。
+I work at Jinshuju (https://jinshuju.net).
+
+我目前在 金数据 (https://jinshuju.net) 工作。
 
 ## Social links
 
