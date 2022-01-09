@@ -8,8 +8,10 @@ FENG Zhichao (flanker). 我目前在 金数据 (https://jinshuju.net) 工作。
 
 ## Social links
 
-* https://twitter.com/fengzhichao
-* https://www.youtube.com/channel/UCu0zYACLxbvEijvjntH36Lg
+* Twitter: https://twitter.com/fengzhichao
+* Youtube: https://www.youtube.com/channel/UCu0zYACLxbvEijvjntH36Lg
+* LinkedIn: https://www.linkedin.com/in/fengzhichao/
+* Bilibili: https://space.bilibili.com/266165600
 
 ## My stats
 
