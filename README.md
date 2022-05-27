@@ -10,10 +10,9 @@ I work at Jinshuju (https://jinshuju.net).
 
 ## Social links
 
-* Twitter: https://twitter.com/fengzhichao
-* Youtube: https://www.youtube.com/channel/UCu0zYACLxbvEijvjntH36Lg
-* LinkedIn: https://www.linkedin.com/in/fengzhichao/
-* Bilibili: https://space.bilibili.com/266165600
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fengzhichao) https://twitter.com/fengzhichao
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCu0zYACLxbvEijvjntH36Lg) https://www.youtube.com/channel/UCu0zYACLxbvEijvjntH36Lg
 
 ## My stats
 
