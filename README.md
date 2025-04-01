@@ -19,9 +19,3 @@ I work at Jinshuju (https://jinshuju.net).
 ## My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flanker)](https://github.com/flanker?tab=repositories)
-
-## Join us!
-
-https://jinshuju.net/f/bgohqz
-
-[![Join Us](https://github.com/flanker/flanker/blob/main/jinshuju_is_hiring.jpg)](https://jinshuju.net/f/bgohqz)
